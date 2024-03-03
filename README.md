@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/antonkovtunua) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonkovtunua/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:anton.kovtun.ua@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Aqtoni)](https://t.me/Aqtoni)
 [![Credly](https://img.shields.io/badge/-Credly-F9A41D?style=flat-square&logo=Credly&logoColor=white)](https://www.credly.com/users/aqton/badges)
